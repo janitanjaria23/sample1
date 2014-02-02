@@ -1,0 +1,12 @@
+class demo14
+{
+    public static void main(String args[])
+    {
+        int a=50;
+        String s1="Sardar Valla";
+        String s2="bhai Patel";
+        System.out.println(a+s1+s2);
+        System.out.println(s1.length()+s2.length());
+        System.out.println(s1.charAt(3)+s2.charAt(5)+1);
+    }
+}
